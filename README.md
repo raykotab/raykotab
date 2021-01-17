@@ -1,10 +1,7 @@
 ### Hi there 👋
-
 <!--
-**raykotab/raykotab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+ #f03c15)
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+:musical_keyboard:-->
 I'm a newbie in developement (started october 2020). 
 
 - 🔭 I’m currently working on coming through the bootcamp where I learn programming
@@ -14,10 +11,9 @@ Then we will see.
 I think it is at the moment better, when you enter with a bit of good faith.
 
 - Learning programming with TDD
-- Js 
-- php
+- Courious about Scrum and Agile
 
-:musical_keyboard:
+
 
 ## Languages and Tools:
 
@@ -37,9 +33,9 @@ I think it is at the moment better, when you enter with a bit of good faith.
 
 
 <br />
-
+<!--
 <script src="https://kit.fontawesome.com/093d21a8cf.js" crossorigin="anonymous"></script>
-<!--...
+...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -47,4 +43,4 @@ I think it is at the moment better, when you enter with a bit of good faith.
 - 📫 How to reach me: astaboada7@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
--->
+
