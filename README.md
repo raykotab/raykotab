@@ -4,9 +4,8 @@
 :musical_keyboard:-->
 I'm a newbie in developement (started october 2020). 
 
-- 🔭 I’m currently working on coming through the bootcamp where I learn programming
-(still a couple of months ahead) and show what I could learn.
-Then we will see.
+- 🔭 Fullstack web developement Bootcamp finished a couple months ago, looking for a first position
+to grow.
 
 I think it is at the moment better, when you enter with a bit of good faith.
 
