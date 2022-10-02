@@ -4,8 +4,7 @@
 :musical_keyboard:-->
 I'm a newbie in developement (started october 2020). 
 
-- 🔭 Fullstack web developement Bootcamp finished a couple months ago, looking for a first position
-to grow.
+- 🔭 Fullstack web developement Bootcamp finished two years ago, alredy working in my first position as mainly backend php developer.
 
 I think it is at the moment better, when you enter with a bit of good faith.
 
@@ -29,7 +28,7 @@ I think it is at the moment better, when you enter with a bit of good faith.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
 <br />
 <!--
