@@ -31,8 +31,9 @@ I think it is at the moment better, when you enter with a bit of good faith.
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
 <br />
-
+<!---
 <script src="https://kit.fontawesome.com/093d21a8cf.js" crossorigin="anonymous"></script>
+-->
 ...
 - 🌱 I’m currently learning symfony
   
