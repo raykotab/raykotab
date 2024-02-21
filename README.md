@@ -41,6 +41,8 @@ I think it is at the moment better, when you enter with a bit of good faith.
 - 💬 Ask me about ...
 - 😄 Pronouns: ... 
 -->
+<br />
 - 📫 How to reach me: raykotab@gmail.com
+<br />
 - ⚡ Fun fact: I'm slightly shorter in height than the distance between the fingertips of one hand to the other.
 
