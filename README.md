@@ -2,13 +2,13 @@
 <!--
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 :musical_keyboard:-->
-I'm a newbie in developement (started october 2020). 
+I crossedover from live sound to developement (started october 2020). 
 
-- 🔭 Fullstack web developement Bootcamp finished two years ago, alredy working in my first position as mainly backend php developer.
+- 🔭 Fullstack web developement Bootcamp finished three years ago, alredy working in my second position as mainly backend php developer.
 
 I think it is at the moment better, when you enter with a bit of good faith.
 
-- Learning programming with TDD
+- Trying programming with TDD
 - Courious about Scrum and Agile
 
 
@@ -31,14 +31,16 @@ I think it is at the moment better, when you enter with a bit of good faith.
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
 <br />
-<!--
+
 <script src="https://kit.fontawesome.com/093d21a8cf.js" crossorigin="anonymous"></script>
 ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning symfony
+  
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: astaboada7@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 😄 Pronouns: ... 
+-->
+- 📫 How to reach me: raykotab@gmail.com
+- ⚡ Fun fact: I'm slightly shorter in height than the distance between the fingertips of one hand to the other.
 
